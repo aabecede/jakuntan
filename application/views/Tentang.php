@@ -1,0 +1,9 @@
+<div class="row">
+	<div class="container">
+		<p align="justify">Jakuntan merupakan sebuah Start-up teknologi di Indonesia yang berfokus pada jasa penyediaan layanan akuntansi dan pembukuan berbasis teknologi pertama di Indonesia. Start up Jakuntan dirintis sejak tahun 2017 pertengahan oleh Kris Maulana Adesurya dan Laily Fitriani, yang keduanya merupakan mahasiswa Jurusan Akuntansi di Universitas Brawijaya Malang. Kemudian, Start-up Jakuntan mulai diluncurkan pada akhir 2017 setelah pembuatan website dilaksanakan oleh Abdul Jabbar yang saat ini merupakan CTO dari team Jakuntan.
+Jakuntan mempunyai komitmen untuk menjadi fasilitator bagi pelaku UMKM di berbagai daerah di seluruh pelosok Indonesia demi meningkatkan kualitas laporan keuangan dan segala kebutuhan jasa akuntansi yang dibutuhkan oleh para pelaku UMKM dengan tarif yang terjangkau. Jakuntan dalam hal ini juga bermitra dengan mahasiswa akuntansi dan akuntan freelance dalam penyediaan jasa akuntansi melalui website jakuntan.com</p>
+
+<p align="justify">Jakuntan sahabat UMKM Indonesia
+Jakuntan tidak hanya lahir untuk menjadi sebuah bisnis, namun juga mempunyai tujuan besar untuk meningkatkan kualitas laporan keuangan dan penyediaan jasa akuntansi bagi seluruh UMKM yang ada di indonesia. Selain itu, jakuntan juga menciptakan lapangan pekerjaan tambahan serta penghasilan tambahan bagi mahasiswa akuntansi yang memang telah memenuhi standart rekrutmen yang kami tetapkan. Jakuntan percaya, dengan meningkatnya kualitas laporan keuangan ataupun kualitas jasa akuntansi bagi UMKM, maka jumlah UMKM serta kesejahteraan UMKM di Indonesia juga akan meningkat menjadi lebih baik.</p>
+	</div>
+</div>
